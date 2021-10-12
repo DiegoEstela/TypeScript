@@ -1,3 +1,3 @@
-let params = process.argv.slice(2);
+console.log("hello world");
 
-console.log(params);
+document.write("hello world");
