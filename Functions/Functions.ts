@@ -6,7 +6,7 @@ function Suma(num1: number, num2: number): number{
 
 console.log(Suma(2,4))
 
-/////////////////////////
+///////////////////////////////////////
 
 let Resta = function(num1: number| string, num2:number|string): number{
     if(typeof num1 === "string"){
@@ -20,3 +20,6 @@ let Resta = function(num1: number| string, num2:number|string): number{
 
 
 console.log("la resta es", Resta(10,4));
+
+///////////////////////////////////////
+
