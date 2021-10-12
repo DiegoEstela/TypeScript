@@ -1,4 +1,11 @@
-
-let nombre : string = "Diego Estela";
+let nombre : string = "Diego Estela"
 let edad : number = 29;
-let loQueSea: any= "Hello"
+let bool : boolean = true;
+
+let loQuesea : any = "Hola"
+
+loQuesea = 30;
+
+
+
+console.log(nombre)
