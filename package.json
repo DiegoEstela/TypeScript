@@ -1,0 +1,25 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "app node con typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoEstela/TypeScript.git"
+  },
+  "keywords": [
+    "typescrit"
+  ],
+  "author": "Diego Estela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoEstela/TypeScript/issues"
+  },
+  "homepage": "https://github.com/DiegoEstela/TypeScript#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
