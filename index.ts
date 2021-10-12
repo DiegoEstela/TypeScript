@@ -6,6 +6,9 @@ let loQuesea : any = "Hola"
 
 loQuesea = 30;
 
+let stringArr : string[] = ["Lucas", "Matias", "Ayelen"];
+let numArr: number[] = [30, 32, 45,76];
+let boolArr : boolean[] = [true, false];
 
-
-console.log(nombre)
+let strNumTuple : [string, number];
+strNumTuple = ["Diego", 29]
